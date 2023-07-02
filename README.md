@@ -1,3 +1,4 @@
+This is a fork of https://github.com/scangeo/xor-files.
 xor-files
 =========
 
